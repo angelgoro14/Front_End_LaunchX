@@ -1,2 +1,2 @@
 Semana 1 Launch X
-Intro y lanzamiento a HTML
+Análisis de requerimientos para maquetación de proyectos
