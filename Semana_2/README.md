@@ -1,10 +1,14 @@
 # Semana 2 Launch X Microsoft
 
+
 ## Intro a HTML
 
-_Diseño de un proyecto para una pasteleria considerando una Página Web con los siguientes requerimientos:_
+_Proyecto que consiste en el diseño de una Página Web para una pasteleria._
 
-* El cliente de la pastelería necesita ver los diferentes sabores de pasteles, así como los precios de cada uno.
+
+### Pre-requisitos 📋
+
+_* El cliente de la pastelería necesita ver los diferentes sabores de pasteles, así como los precios de cada uno._
 
 * El cliente de la pastelería necesita ver los diferentes adornos con los que se puede decorar el pastel y los precios de cada uno.
 
@@ -23,3 +27,12 @@ _Diseño de un proyecto para una pasteleria considerando una Página Web con los
 * El pastelero necesita una tabla donde aparezcan los pedidos que se han realizado con los datos del formulario.
 
 * La página debe tener información de la pastelería que es Dirección, Teléfono y horarios de atención.
+
+
+## Construido con 🛠️
+
+Para el proyecto se utilizó HTML y CSS 
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
