@@ -40,5 +40,5 @@ Para el proyecto se utilizó HTML y CSS
 * [img](https://github.com/angelgoro14/Front_End_LaunchX/tree/main/Semana_2/img) - Carpeta donde se encuentran todas las imagenes necesarias para llevar a cabo la Página Web.
 * [cliente.html](https://github.com/angelgoro14/Front_End_LaunchX/blob/main/Semana_2/cliente.html) - Archivo HTML correspondiente a la página con la que el cliente interactua para la eleccion de sus pasteles.
 * [contacto.html](https://github.com/angelgoro14/Front_End_LaunchX/blob/main/Semana_2/contacto.html) - Archivo HTML correspondiente a la información de la empresa.
-* [index.html](https://github.com/angelgoro14/Front_End_LaunchX/blob/main/Semana_2/index.html) - Archivo HTML correspondiente a la página Web principal
 * [pastelero.html](https://github.com/angelgoro14/Front_End_LaunchX/blob/main/Semana_2/pastelero.html) - Archivo HTML correspondiente a la página con la que el chef interactua para la información de ingredientes y pedidos realizados.
+* [index.html](https://github.com/angelgoro14/Front_End_LaunchX/blob/main/Semana_2/index.html) - Archivo HTML correspondiente a la página Web principal
