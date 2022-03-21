@@ -8,7 +8,7 @@ _Proyecto que consiste en el diseño de una Página Web para una pasteleria._
 
 ### Pre-requisitos 📋
 
-_* El cliente de la pastelería necesita ver los diferentes sabores de pasteles, así como los precios de cada uno._
+*_El cliente de la pastelería necesita ver los diferentes sabores de pasteles, así como los precios de cada uno._
 
 * El cliente de la pastelería necesita ver los diferentes adornos con los que se puede decorar el pastel y los precios de cada uno.
 
