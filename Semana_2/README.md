@@ -2,7 +2,7 @@ Semana 2 Launch X
 
 Intro a HTML;
 
-Página Web con los siguientes requerimientos:
+Diseño de un proyecto para una pasteleria considerando una Página Web con los siguientes requerimientos:
 
 °El cliente de la pastelería necesita ver los diferentes sabores de pasteles, así como los precios de cada uno.
 
